@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zachariah
 - 👀 I’m interested in Web Development and just graphic design
-- 🌱 I’m currently learning Python and data manipulation
+- 🌱 I’m currently learning React
 - 📫 How to reach me zeculp@gmail.com
 
 <!---
